@@ -25,8 +25,8 @@ password=pwd
   private static String basePackage = "com.zwh.mbp.basic.entity.base";
   //作者
   private static String authorName = "zhangwenhao";
-  //要生成的表名
-  private static String[] tables = {"TBL_xxx_abc"};
+  //要生成的表名  全部大写
+  private static String[] tables = {"TBL_XXX_ABC"};
   //table前缀 这样 生成mapper 和 service的时候就不会包含 tbl
   private static String prefix = "TBL_";
 
