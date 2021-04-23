@@ -24,3 +24,4 @@
 /nbdist/
 /.nb-gradle/
 !/src/main/java/out/
+!/src/main/resources/database.properties
